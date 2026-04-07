@@ -1,6 +1,6 @@
 # AI Agent Architect
 
-> A Claude Code skill that designs AI agent architectures through Socratic deep interviewing — before recommending anything.
+> A Claude cowork skill that designs AI agent architectures through Socratic deep interviewing — before recommending anything.
 
 ![Version](https://img.shields.io/badge/version-1.8.0-blue)
 ![Claude Code](https://img.shields.io/badge/Claude-cowork-orange)
@@ -20,9 +20,9 @@ Most AI agent failures come from choosing architecture patterns based on technic
 
 ## Installation
 
-This is a **Claude Code skill**. To install:
+This is a **Claude cowork skill**. To install:
 
-1. Clone this repository into your Claude Code skills directory
+1. Clone this repository into your Claude cowork skills directory
 2. The skill auto-triggers when you describe an AI agent design problem
 
 **Trigger phrases:** `AI agent design` · `agent architecture` · `workflow patterns` · `multi-agent systems`
@@ -211,7 +211,7 @@ A complete run produces some or all of these files in your workspace:
 
 ## Requirements
 
-- Claude Code
+- Claude cowork
 - Claude Sonnet or above (the interview loop simultaneously tracks 4-dimension scoring, entity stability, and challenge-mode triggers — smaller models may lose state consistency across rounds)
 - Optional: `xlsx` skill for spreadsheet cost analysis output; `pptx` skill for slide deck generation in Phase 5
 
